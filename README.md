@@ -10,3 +10,4 @@
 # How to run py file
 
 # streamlit run main.py
+# ![Screenshot (23)](https://github.com/user-attachments/assets/fa13c99d-e963-4b58-a43f-fc5b49f1a2e6)
